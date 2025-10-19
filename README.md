@@ -1,2 +1,1 @@
 # openmeteo-agent
-openmeteo-agent
